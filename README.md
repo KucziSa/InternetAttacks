@@ -49,4 +49,4 @@
 * Paste url link to website e.g. www.mysocials.pl
 * Enjoy!
 
-©Kuczi$
+<a href="https://kuczis.mysocials.pl">©Kuczi$</a>
