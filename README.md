@@ -34,9 +34,19 @@
 * Paste url link to website e.g. www.mysocials.pl
 * Enjoy!
 
-# LinkScannPro
+# User Name Scanner
 ## Install: 
 
 * ```bash UserScanner```
 * Type username you want to phish
 * Enjoy!
+
+# Web Api - different free services
+## Install: 
+
+* ```pip3 install requests``` - if you haven't already
+* ```python3 WebApi.py```
+* Paste url link to website e.g. www.mysocials.pl
+* Enjoy!
+
+©Kuczi$
