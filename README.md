@@ -12,5 +12,9 @@
 
 #Admin Login Page - Brute Force Attack
 ## Install: 
-*```pip install urllib3``` - if you haven't already
-*```python3 AdminLoginPage.py```
+
+* ```pip install urllib3``` - if you haven't already
+* ```python3 AdminLoginPage.py```
+* Paste url link to website
+* Enjoy!
+
