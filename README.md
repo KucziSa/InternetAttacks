@@ -4,7 +4,7 @@
 ## Requirements:
 *```ts
 apt-get install python3
-``` </br>
+```
 *```apt-get install git``` </br>
 *```pip3 install requests``` </br>
 *```pip install urllib3``` </br>
