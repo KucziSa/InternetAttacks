@@ -5,8 +5,8 @@
 * ```apt-get install python3```
 *  ```apt-get install git```
 *  ```pip3 install requests```
+*  ```pip3 install bs4```
 *  ```pip install urllib3```
-*  ```bash install.sh```
 *  ```git clone https://github.com/KucziSa/InternetAttacks```
 *  ```cd InternetAttacks```
 
@@ -21,7 +21,6 @@
 # LinkScannPro
 ## Install: 
 
-* ```bash install.sh``` - if you haven't already
 * ```python3 LinkScannPro.py```
 * Paste url link to website e.g. www.mysocials.pl
 * Enjoy!
