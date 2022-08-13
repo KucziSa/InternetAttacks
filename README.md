@@ -15,6 +15,21 @@
 
 * ```pip install urllib3``` - if you haven't already
 * ```python3 AdminLoginPage.py```
-* Paste url link to website
+* Paste url link to website e.g. https://mysocials.pl
 * Enjoy!
 
+# LinkScannPro
+## Install: 
+
+* ```bash install.sh``` - if you haven't already
+* ```python3 LinkScannPro.py```
+* Paste url link to website e.g. www.mysocials.pl
+* Enjoy!
+
+# UrlShortener - TinyUrl
+## Install: 
+
+* ```pip3 install requests``` - if you haven't already
+* ```python3 UrlShortener.py```
+* Paste url link to website e.g. www.mysocials.pl
+* Enjoy!
