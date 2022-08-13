@@ -33,3 +33,10 @@
 * ```python3 UrlShortener.py```
 * Paste url link to website e.g. www.mysocials.pl
 * Enjoy!
+
+# LinkScannPro
+## Install: 
+
+* ```bash UserScanner```
+* Type username you want to phish
+* Enjoy!
