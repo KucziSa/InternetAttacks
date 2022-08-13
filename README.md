@@ -38,7 +38,7 @@
 ## Install: 
 
 * ```cd InternetSpoofing``` - if you haven't already
-* ```bash UserScanner```
+* ```bash UserScanner.sh```
 * Type username you want to phish
 * Enjoy!
 
